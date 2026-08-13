@@ -66,7 +66,7 @@ namespace HyperLog.Workers
                 }
             }
 
-            outputWriter.Complete();
+            // Do not complete the shared output writer here — the caller manages completion after all workers finish.
         }
     }
 }

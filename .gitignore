@@ -1,0 +1,7 @@
+# Ignore generated log samples and build outputs
+sample.log
+# Dotnet build folders
+**/bin/
+**/obj/
+# user local logs
+*.log
