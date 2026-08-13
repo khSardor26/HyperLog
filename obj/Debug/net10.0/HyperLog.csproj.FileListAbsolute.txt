@@ -1,0 +1,14 @@
+/Users/furb-x/Desktop/HyperLog/obj/Debug/net10.0/HyperLog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furb-x/Desktop/HyperLog/obj/Debug/net10.0/HyperLog.AssemblyInfoInputs.cache
+/Users/furb-x/Desktop/HyperLog/obj/Debug/net10.0/HyperLog.AssemblyInfo.cs
+/Users/furb-x/Desktop/HyperLog/obj/Debug/net10.0/HyperLog.csproj.CoreCompileInputs.cache
+/Users/furb-x/Desktop/HyperLog/bin/Debug/net10.0/HyperLog
+/Users/furb-x/Desktop/HyperLog/bin/Debug/net10.0/HyperLog.deps.json
+/Users/furb-x/Desktop/HyperLog/bin/Debug/net10.0/HyperLog.runtimeconfig.json
+/Users/furb-x/Desktop/HyperLog/bin/Debug/net10.0/HyperLog.dll
+/Users/furb-x/Desktop/HyperLog/bin/Debug/net10.0/HyperLog.pdb
+/Users/furb-x/Desktop/HyperLog/obj/Debug/net10.0/HyperLog.dll
+/Users/furb-x/Desktop/HyperLog/obj/Debug/net10.0/refint/HyperLog.dll
+/Users/furb-x/Desktop/HyperLog/obj/Debug/net10.0/HyperLog.pdb
+/Users/furb-x/Desktop/HyperLog/obj/Debug/net10.0/HyperLog.genruntimeconfig.cache
+/Users/furb-x/Desktop/HyperLog/obj/Debug/net10.0/ref/HyperLog.dll
