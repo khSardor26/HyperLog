@@ -1,7 +1,29 @@
-# Ignore generated log samples and build outputs
-sample.log
-# Dotnet build folders
-**/bin/
-**/obj/
-# user local logs
+# === 1. Логи и сгенерированные файлы (Самое важное!) ===
 *.log
+sample.log
+*.tmp
+
+# === 2. Результаты компиляции .NET ===
+bin/
+obj/
+out/
+[Bb]in/
+[Oo]bj/
+
+# === 3. Файлы IDE и редакторов (Rider / VS Code / Visual Studio) ===
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosv
+*.sln.docstates
+
+# === 4. Системные файлы OS (macOS / Windows) ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# === 5. Временные кэши BMAD (сохраняем PRD.md и ARCHITECTURE.md) ===
+_bmad-output/planning-artifacts/
+_bmad-output/implementation-artifacts/
+_bmad/
