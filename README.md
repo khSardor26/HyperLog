@@ -29,6 +29,4 @@ dotnet run -- generate 1GB sample.log
 # Run parallel log processing engine with 8 workers
 dotnet run -- run sample.log --workers 8
 
-# Run benchmark harness
-dotnet run -- benchmark sample.log
 ```
